@@ -1,1 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
 
+# Datos generados
+*.json
+!requirements.json
+diabolic_canarias.json
+estado_periodicos_canarias.json
+export_canarias.json
+export_canarias.csv
+
+# Entornos virtuales
+venv/
+env/
+.venv
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

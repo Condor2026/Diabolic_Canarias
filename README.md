@@ -5,6 +5,7 @@
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Termux-lightgrey)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![Communities](https://img.shields.io/badge/communities-15%20CCAA-brightgreen)
+
 **DIABOLIC Canarias** es una herramienta OSINT pasiva y analítica que monitoriza **periódicos digitales de las Islas Canarias** (Tenerife, Gran Canaria, Lanzarote, Fuerteventura, La Palma, La Gomera, El Hierro) para detectar, clasificar y visualizar patrones delictivos.  
 No guarda datos personales, solo titulares, fechas y ubicaciones por isla. Filosofía: *"Un gran poder conlleva una gran responsabilidad"*.
 

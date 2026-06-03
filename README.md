@@ -2,18 +2,18 @@
 # 🔥 DIABOLIC CANARIAS v1.0
 
 ![Version](https://img.shields.io/badge/version-1.0-red)
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![Python](https://img.shields.io/badge/python-3.8+-green)](https://python.org)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8+-green)
 ![OSINT](https://img.shields.io/badge/OSINT-Pasivo%20%7C%20Analítico-blueviolet)
-![GitHub release](https://img.shields.io/badge/release-v1.0-brightgreen)](https://github.com/Condor2026/Diabolic_Canarias/releases)
-![GitHub last commit](https://img.shields.io/github/last-commit/Condor2026/Diabolic_Canarias)](https://github.com/Condor2026/Diabolic_Canarias/commits/main)
-![GitHub code size](https://img.shields.io/github/languages/code-size/Condor2026/Diabolic_Canarias)](https://github.com/Condor2026/Diabolic_Canarias)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-![Made with Flask](https://img.shields.io/badge/Made%20with-Flask-black)](https://flask.palletsprojects.com/)
-![Termux](https://img.shields.io/badge/Termux-Supported-blue)](https://termux.com)
-![Linux](https://img.shields.io/badge/Linux-Supported-green)](https://www.linux.org)
-![GitHub stars](https://img.shields.io/github/stars/Condor2026/Diabolic_Canarias?style=social)](https://github.com/Condor2026/Diabolic_Canarias/stargazers)
-![GitHub forks](https://img.shields.io/github/forks/Condor2026/Diabolic_Canarias?style=social)](https://github.com/Condor2026/Diabolic_Canarias/network/members)
+![GitHub release](https://img.shields.io/badge/release-v1.0-brightgreen)
+![GitHub last commit](https://img.shields.io/github/last-commit/Condor2026/Diabolic_Canarias)
+![GitHub code size](https://img.shields.io/github/languages/code-size/Condor2026/Diabolic_Canarias)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Made with Flask](https://img.shields.io/badge/Made%20with-Flask-black)
+![Termux](https://img.shields.io/badge/Termux-Supported-blue)
+![Linux](https://img.shields.io/badge/Linux-Supported-green)
+![GitHub stars](https://img.shields.io/github/stars/Condor2026/Diabolic_Canarias?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Condor2026/Diabolic_Canarias?style=social)
 
 **DIABOLIC Canarias** es una herramienta OSINT pasiva y analítica que monitoriza **periódicos digitales de las Islas Canarias** (Tenerife, Gran Canaria, Lanzarote, Fuerteventura, La Palma, La Gomera, El Hierro) para detectar, clasificar y visualizar patrones delictivos.  
 No guarda datos personales, solo titulares, fechas y ubicaciones por isla. Filosofía: *"Un gran poder conlleva una gran responsabilidad"*.

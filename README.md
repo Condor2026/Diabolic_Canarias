@@ -1,19 +1,11 @@
-```markdown
-# 🔥 DIABOLIC CANARIAS v1.0
-
 ![Version](https://img.shields.io/badge/version-1.0-red)
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
 ![OSINT](https://img.shields.io/badge/OSINT-Pasivo%20%7C%20Analítico-blueviolet)
-![GitHub release](https://img.shields.io/badge/release-v1.0-brightgreen)
-![GitHub last commit](https://img.shields.io/github/last-commit/Condor2026/Diabolic_Canarias)
-![GitHub code size](https://img.shields.io/github/languages/code-size/Condor2026/Diabolic_Canarias)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Made with Flask](https://img.shields.io/badge/Made%20with-Flask-black)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Termux-lightgrey)
 ![Termux](https://img.shields.io/badge/Termux-Supported-blue)
-![Linux](https://img.shields.io/badge/Linux-Supported-green)
-![GitHub stars](https://img.shields.io/github/stars/Condor2026/Diabolic_Canarias?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Condor2026/Diabolic_Canarias?style=social)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![Islands](https://img.shields.io/badge/islands-7%20Canarias-orange)
 
 **DIABOLIC Canarias** es una herramienta OSINT pasiva y analítica que monitoriza **periódicos digitales de las Islas Canarias** (Tenerife, Gran Canaria, Lanzarote, Fuerteventura, La Palma, La Gomera, El Hierro) para detectar, clasificar y visualizar patrones delictivos.  
 No guarda datos personales, solo titulares, fechas y ubicaciones por isla. Filosofía: *"Un gran poder conlleva una gran responsabilidad"*.

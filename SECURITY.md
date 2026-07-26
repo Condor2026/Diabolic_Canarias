@@ -51,6 +51,6 @@ Esta herramienta se utiliza para monitorizar criminalidad en el archipiélago. L
 
 ¡Gracias por ayudar a hacer **DIABOLIC CANARIAS** más seguro!
 
-**SpectrumSecurity / Condor2026**  
+**🦅🦅🦅 Condor2026 – Threat Investigator 🦅🦅🦅**  
 Última actualización: mayo 2026
 ```

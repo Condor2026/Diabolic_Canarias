@@ -5,7 +5,7 @@
 # SPDX-FileCopyrightText: 2026 Condor2026 / SpectrumSecurity
 #
 # Diabolic_Canarias - Ireland Crime Intelligence Platform
-# Copyright (C) 2026 Condor2026
+# Copyright (C) 2026 Condor2026            🦅🦅🦅 Condor2026 – Threat Investigator 🦅🦅🦅**
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

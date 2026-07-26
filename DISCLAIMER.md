@@ -56,4 +56,5 @@ Si no estás de acuerdo con estos principios, te rogamos que no utilices la herr
 ---
 
 **Última actualización: mayo 2026**  
-**SpectrumSecurity** (GitHub: Condor2026)
+
+**🦅🦅🦅 Condor2026 – Threat Investigator 🦅🦅🦅**

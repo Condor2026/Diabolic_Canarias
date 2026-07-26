@@ -253,4 +253,6 @@ Consulta el archivo `LICENSE` para el texto completo de la licencia.
 ---
 
 ⭐ **Si DIABOLIC te resulta útil, considera dejar una estrella en el repositorio y compartir el proyecto. ¡Juntos hacemos el OSINT más ético y accesible!**
-```
+
+
+**🦅🦅🦅 Condor2026 – Threat Investigator 🦅🦅🦅**
